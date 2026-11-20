@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /review/
+Disallow: /demo/
+Disallow: /settings/
+
+Host: https://sixthphysics.github.io
+Sitemap: https://sixthphysics.github.io/sitemap.xml
