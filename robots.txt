@@ -5,5 +5,5 @@ Disallow: /review/
 Disallow: /demo/
 Disallow: /settings/
 
-Host: https://sixthphysics.github.io
-Sitemap: https://sixthphysics.github.io/sitemap.xml
+Host: https://sixthphysics.co.uk
+Sitemap: https://sixthphysics.co.uk/sitemap.xml

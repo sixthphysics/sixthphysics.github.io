@@ -9,7 +9,7 @@ SixthPhysics separates licensing across its source code, compiled educational co
 | Asset | Scope | License |
 | --- | --- | --- |
 | **Source Code** | Deterministic TypeScript physics solvers (`lib/visuals/`), non-leaking SVG renderers, bank generation pipeline (`lib/bank-pipeline/`), benchmark & verification harness (`lib/benchmark/`, `lib/live-generator/`), Next.js practice desk & PDF paper studio (`app/`, `components/`, `lib/sixthphysics-web/`), and scripts (`scripts/`, `training/`) | **[PolyForm Noncommercial License 1.0.0](LICENSE.md)** (`PolyForm-Noncommercial-1.0.0`) |
-| **Question Bank, Datasets & Rendered SVGs** | Compiled question items, stems, options, distractor explanations, worked solutions, mark schemes, synthetic distillation traces, and rendered SVG physics diagrams (published on `sixthphysics.github.io` and `d4ydy/sixthphysics-bench-and-bank`) | **[CC BY-NC-SA 4.0](LICENSE-CONTENT.md)** (`CC-BY-NC-SA-4.0`) |
+| **Question Bank, Datasets & Rendered SVGs** | Compiled question items, stems, options, distractor explanations, worked solutions, mark schemes, synthetic distillation traces, and rendered SVG physics diagrams (published on `sixthphysics.co.uk` and `d4ydy/sixthphysics-bench-and-bank`) | **[CC BY-NC-SA 4.0](LICENSE-CONTENT.md)** (`CC-BY-NC-SA-4.0`) |
 | **Fine-Tuned Model Weights** | `Qwen/Qwen3.5-9B` LoRA adapter (`d4ydy/sixthphysics-qwen3.5-9b-lora`) and merged GGUF quantizations (`d4ydy/sixthphysics-qwen3.5-9b-GGUF`) | **Apache License 2.0** (`Apache-2.0`, matching `Qwen/Qwen3.5-9B`) |
 
 ## Commercial Licensing
